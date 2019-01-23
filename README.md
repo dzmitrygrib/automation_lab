@@ -1,2 +1,2 @@
 # automation_lab
-Marina Verhovcova
+Artem Gavrilenko
