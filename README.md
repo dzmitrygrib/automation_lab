@@ -1,2 +1,2 @@
 # automation_lab
-Artem Gavrilenko
+Sergey Stupchik
