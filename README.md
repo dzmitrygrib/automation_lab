@@ -1,2 +1,2 @@
 # automation_lab
-Dima Primudrov
+Marina Verhovcova
