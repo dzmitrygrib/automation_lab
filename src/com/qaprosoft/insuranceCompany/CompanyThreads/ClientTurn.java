@@ -1,6 +1,6 @@
 package com.qaprosoft.insuranceCompany.CompanyThreads;
 
-public class ClientTurn extends Thread    {
+public class ClientTurn implements Runnable    {
     private String[] names;
 
     public ClientTurn(String... names) {

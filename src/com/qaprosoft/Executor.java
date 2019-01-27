@@ -46,12 +46,23 @@ public class Executor {
 		
 		// threads:
 		
-		ClientTurn turn1 = new ClientTurn("Michael","Peter","Dmitriy","Alexander","Vladimir");
-    	ClientTurn turn2 = new ClientTurn("Alina","Helena","Catherine","Diana","Yana");
+	//	ClientTurn turn1 = new ClientTurn("Michael","Peter","Dmitriy","Alexander","Vladimir");
+   // 	ClientTurn turn2 = new ClientTurn("Alina","Helena","Catherine","Diana","Yana");
 
         System.out.println("Start processing documents!"); 
-        turn1.start();    
-        turn2.start(); 
+        
+        ClientTurn turn1;
+        turn1 = new ClientTurn("Michael","Peter","Dmitriy","Alexander","Vladimir");				
+        ClientTurn turn2;
+        turn2 = new ClientTurn("Alina","Helena","Catherine","Diana","Yana");		
+			
+        Thread myThready1 = new Thread(turn1);	
+		myThready1.start();				
+		Thread myThready2 = new Thread(turn2);	
+		myThready2.start();				
+
+ //       turn1.start();    
+ //       turn2.start(); 
         
         
      // threads (join):
@@ -85,7 +96,7 @@ public class Executor {
 
 	       System.out.println("All clients are accepted. Personal reception is complete.");
         
-        
+	     
 		
 	}
 }
