@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<RomanticBooksList>
+		<RomBook1 genre="romantic" cost="20">
+			<Name>RomeoAndJuliette</Name>
+			<Author>Shekspire</Author>
+			<Year>1996</Year>
+		</RomBook1>
+		<RomBook2 genre="romantic" cost="15">
+			<Name>1984</Name>
+			<Author>JeorgeOurwell</Author>
+			<Year>1985</Year>
+		</RomBook2>
+		<RomBook3 genre="romantic" cost="18">
+			<Name>50ShadesOfGray</Name>
+			<Author>L.L.James</Author>
+			<Year>2014</Year>
+		</RomBook3>
+		<RomBook4/>
+		<RomBook5/>
+	</RomanticBookList>
+		
+		û

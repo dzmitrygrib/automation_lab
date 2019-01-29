@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<ComicsList>
+		<FreeComics>
+			<Comics1 genre="adventure" cost="0">
+				<Name>Riverdale</Name>
+				<Author>J.J.Adams</Author>
+				<Year>2000</Year>
+			</Comics1>
+			<Comics2 genre="story_of_hero" cost="0">
+				<Name>Superman</Name>
+				<Author>StanLee</Author>
+				<Year>1957</Year>
+			</Comics2>
+		</FreeComics>
+		<PaidComics>
+			<Comics3 genre="story_of_hero" cost="18">
+				<Name>DareDevil</Name>
+				<Author>StanLee</Author>
+				<Year>1958</Year>
+			</Comics3>
+			<Comics4/>
+			<Comics5/>
+		</PaidComics>
+	</ComicsList>

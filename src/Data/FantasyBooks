@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<FantasyBooksList>
+		<FreeFantasyBooks>
+			<FantasyBook1 genre="fantasy" cost="0">
+				<Name>HarryPotter</Name>
+				<Author>J.Rouling</Author>
+				<Year>1999</Year>
+			</FantasyBook1>
+		</FreeFantasyBooks>
+		<PaidFantasyBooks>
+			<FantasyBook2 genre="fantasy" cost="13">
+				<Name>TheLordOfTheRings</Name>
+				<Author>J.Tolkin</Author>
+				<Year>1956</Year>
+			</FantasyBook2>
+			<FantasyBook3 genre="fantasy" cost="11">
+				<Name>TheGraceOfKings</Name>
+				<Author>G.Lee</Author>
+				<Year>1986</Year>
+			</FantasyBook3>
+			<FantasyBook4/>
+			<FantasyBook5/>
+		</PaidFantasyBooks>
+	</FantasyBookList>

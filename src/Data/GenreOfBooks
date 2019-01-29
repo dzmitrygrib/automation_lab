@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<BookGenre>
+		<Genre1>Romantic</Genre1>
+		<Genre2>Historic</Genre2>
+		<Genre3>Biography</Genre3>
+		<Genre4>Detective</Genre4>
+		<Genre5>Psychology</Genre5>
+		<Genre6>Fairytail</Genre6>
+		<Genre7>Fantasy</Genre7>
+		<Genre8>Fantastic</Genre8>
+		<Genre9>Comics</Genre9>
+		<Genre10>Magazine</Genre10>
+		<Genre11>Drama</Genre11>
+		<Genre12>Horror</Genre12>
+		<Genre13>Adventure</Genre13>
+		<Genre14>Humor</Genre14>
+		<Genre15>Science</Genre15>
+	</BookGenre>

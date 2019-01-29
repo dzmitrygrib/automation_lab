@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<Peoples>
+		<Visitors>
+			<Visitor1 name="Anna" age="15">
+			<wish>RomanticBook</wish>
+			<money>0</money>
+			</Visitor1>
+			</Visitor2 name="Veronica" age="36">
+			<wish>RomanticBook</wish>
+			<money>100</money>
+			</Visitor2>
+			</Visitor3 name="Ksenia" age="20">
+			<wish>FantasyBook</wish>
+			<money>25</money>
+			</Visitor3>
+			</Visitor4 name="Stanislav" age="8">
+			<wish>PsychologyBook</wish>
+			<money>50</money>
+			</Visitor4>
+			</Visitor5 name="Mark" age="56">
+			<wish>FantasticBook</wish>
+			<money>200</money>
+			</Visitor5>
+			</Visitor6 name="Mary" age="18">
+			<wish>Comics</wish>
+			<money>26</money>
+			</Visitor6>
+		</Visitors>
+		<Employee>
+			</Employee1 name="Inessa" age="25">
+			<work>Librarian</work>
+			<worktime>8.00-18.00</worktime>
+			</Employee1>
+			</Employee2 name="Igor" age="50">
+			<work>Librarian</work>
+			<worktime>8.00-18.00</worktime>
+			</Employee2>
+			</Employee3 name="Oleg" age="25">
+			<work>Stuff</work>
+			<worktime>18.00-20.00</worktime>
+			</Employee3>
+		</Emploee>
+	</Peoples>

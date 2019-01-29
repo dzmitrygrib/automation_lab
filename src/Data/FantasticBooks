@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<FantasticBooksList>
+		<FreeFantasticBooks>
+			<FantasticBook1 genre="fantastic" cost="0">
+				<Name>Fight</Name>
+				<Author>S.King</Author>
+				<Year>1993</Year>
+			</FantasticBook1>
+		</FreeFantasticBooks>
+		<PaidFantasticBooks>
+			<FantasticBook2 genre="fantastic" cost="13">
+				<Name>MirrorsEdge</Name>
+				<Author>M.Latushko</Author>
+				<Year>2004</Year>
+			</FantasticBook2>
+			<FantasticBook3 genre="fantastic" cost="11">
+				<Name>Race</Name>
+				<Author>G.Liman</Author>
+				<Year>1991</Year>
+			</FantasticBook3>
+			<FantasticBook4/>
+			<FantasticBook5/>
+		</PaidFantasticBooks>
+	</FantasticBookList>

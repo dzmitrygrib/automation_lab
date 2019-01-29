@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<PsychologyBooksList>
+		<PsyBook1 genre="psychology" cost="33">
+			<Name>ThinkSlowly</Name>
+			<Author>D.Carnegi</Author>
+			<Year>1985</Year>
+		</PsyBook1>
+		<PsyBook2 genre="psychology" cost="30">
+			<Name>SayYesToLife</Name>
+			<Author>R.Jarlie</Author>
+			<Year>1957</Year>
+		</PsyBook2>
+		<PsyBook3 genre="psychology" cost="18">
+			<Name>SunShine</Name>
+			<Author>M.Miles</Author>
+			<Year>2006</Year>
+		</PsyBook3>
+		<PsyBook4/>
+		<PsyBook5/>
+	</PsychologyBookList>

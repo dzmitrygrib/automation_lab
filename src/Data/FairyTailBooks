@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<FairyTailBooksList>
+		<FairyBook1 genre="fairytail" cost="5">
+			<Name>TheLittlePrince</Name>
+			<Author>DeSentEksupery</Author>
+			<Year>1996</Year>
+		</FairyBook1>
+		<FairyBook2 genre="fairytail" cost="7">
+			<Name>Aibolit</Name>
+			<Author>KorneyChukovski</Author>
+			<Year>1936</Year>
+		</FairyBook2>
+		<FairyBook3 genre="fairytail" cost="4">
+			<Name>Kolobok</Name>
+			<Author>Folk</Author>
+			<Year>2006</Year>
+		</FairyBook3>
+		<FairyBook4/>
+		<FairyBook5/>
+	</FairyTailBookList>

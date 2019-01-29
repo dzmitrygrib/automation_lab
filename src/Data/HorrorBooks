@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<HorrorBooksList>
+		<FreeHorrorBooks>
+			<HorrorBook1 genre="horror" cost="0">
+				<Name>Dracula</Name>
+				<Author>B.Stoker</Author>
+				<Year>1937</Year>
+			</HorrorBook1>
+		</FreeHorrorBooks>
+		<PaidHorrorBooks>
+			<HorrorBook2 genre="Horror" cost="15">
+				<Name>Shine</Name>
+				<Author>S.King</Author>
+				<Year>1966</Year>
+			</HorrorBook2>
+			<HorrorBook3 genre="horror" cost="10">
+				<Name>It</Name>
+				<Author>S.King</Author>
+				<Year>1967</Year>
+			</HorrorBook3>
+			<HorrorBook4/>
+			<HorrorBook5/>
+		</PaidHorrorBooks>
+	</HorrorBookList>

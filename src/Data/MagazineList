@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<MagazineList>
+		<Magazine1 genre="relaxation" cost="10">
+			<Name>PlayBoy</Name>
+			<Author>V.Allen</Author>
+			<Year>1950</Year>
+		</Magazine1>
+		<Magazine2 genre="sport" cost="11">
+			<Name>Men'sHealth</Name>
+			<Author>M.Kroman</Author>
+			<Year>1976</Year>
+		</Magazine2>
+		<Magazine3 genre="sport" cost="18">
+			<Name>Women'sHealth</Name>
+			<Author>M.Morales</Author>
+			<Year>1977/Year>
+		</Magazine3>
+		<Magazine4/>
+		<magazine5/>
+	</MagazineList>

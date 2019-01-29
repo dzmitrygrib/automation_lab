@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<HistoryBooksList>
+		<HisBook1 genre="history" cost="10">
+			<Name>Rome</Name>
+			<Author>GalilNorman</Author>
+			<Year>1944</Year>
+		</HisBook1>
+		<HisBook2 genre="history" cost="8">
+			<Name>Sapiens</Name>
+			<Author>JuvalNoi</Author>
+			<Year>1956</Year>
+		</HisBook2>
+		<HisBook3 genre="history" cost="12">
+			<Name>TheSilkRoad</Name>
+			<Author>P.Frankopan</Author>
+			<Year>2007</Year>
+		</HisBook3>
+		<HisBook4/>
+		<HisBook5/>
+	</HistoryBookList>
