@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<personal_accounts>
+	
+		<personal_account id="1">
+			<owner>John</owner>
+			<name>John_Account</name>
+			<wall>Wall1</wall>
+			<video_album>VideoAlbum1</video_album>
+			<photo_album>PhotoAlbum1</photo_album>
+		</personal_account>
+		
+		<personal_account id="2">
+			<owner>Jack</owner>
+			<name>Jack_Account</name>
+			<wall>Wall2</wall>
+			<video_album>VideoAlbum2</video_album>
+			<photo_album>PhotoAlbum2</photo_album>
+		</personal_account>
+		
+		<personal_account id="3">
+			<owner>Bob</owner>
+			<name>Bob_Account</name>
+			<wall>Wall3</wall>
+			<video_album>VideoAlbum3</video_album>
+			<photo_album>PhotoAlbum3</photo_album>
+		</personal_account>
+		
+	</personal_accounts>
+</xml>

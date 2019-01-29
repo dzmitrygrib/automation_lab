@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<group_accounts>
+	
+		<group_account id="1">
+			<admins>
+				<user>John</user>
+				<user>Jack</user>
+				<user>Bob</user>
+			</admins>
+			<members>
+				<user>Tim</user>
+				<user>Tom</user>
+				<user>Fred</user>
+			</members>
+			<name>GroupAccount1</name>
+			<wall>Wall1</wall>
+			<video_album>VideoAlbum1</video_album>
+			<photo_album>PhotoAlbum1</photo_album>
+		</group_account>
+		
+		<group_account id="2">
+			<admins>
+				<user>John</user>
+				<user>Jack</user>
+				<user>Bob</user>
+			</admins>
+			<members>
+				<user>Tim</user>
+				<user>Tom</user>
+				<user>Fred</user>
+			</members>
+			<name>GroupAccount2</name>
+			<wall>Wall2</wall>
+			<video_album>VideoAlbum2</video_album>
+			<photo_album>PhotoAlbum2</photo_album>
+		</group_account>
+		
+	</group_accounts>
+</xml>

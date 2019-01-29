@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <java version="1.8.0_191" class="java.beans.XMLDecoder">
- <object class="com.qaprosoft.social_network.user.User">
-  <void property="name">
-   <string>Lelek</string>
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <int>0</int>
+  </void>
+  <void method="add">
+   <int>1</int>
+  </void>
+  <void method="add">
+   <int>2</int>
+  </void>
+  <void method="add">
+   <int>3</int>
+  </void>
+  <void method="add">
+   <int>4</int>
+  </void>
+  <void method="add">
+   <int>5</int>
+  </void>
+  <void method="add">
+   <int>6</int>
+  </void>
+  <void method="add">
+   <int>7</int>
+  </void>
+  <void method="add">
+   <int>8</int>
+  </void>
+  <void method="add">
+   <int>9</int>
   </void>
  </object>
 </java>
