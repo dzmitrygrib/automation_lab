@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movables_insurance numeration="2">
+	<cars numeration="21">
+		<tariff_ID>
+			<lite numeration="211">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</lite>
+			<lite_plus numeration="212">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</lite_plus>
+			<middle numeration="213">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</middle>
+			<middle_plus numeration="214">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</middle_plus>
+			<full numeration="215">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</full>
+		</tariff_ID>
+	</cars>
+	<motorcycles numeration="22">
+		<tariff_ID>
+			<lite numeration="221">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</lite>
+			<lite_plus numeration="222">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</lite_plus>
+			<middle numeration="223">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</middle>
+			<middle_plus numeration="224">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</middle_plus>
+			<full numeration="225">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</full>
+		</tariff_ID>
+	</motorcycles>
+	<water_transport numeration="23">
+		<tariff_ID>
+			<lite numeration="231">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</lite>
+			<lite_plus numeration="232">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</lite_plus>
+			<middle numeration="233">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</middle>
+			<middle_plus numeration="234">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</middle_plus>
+			<full numeration="235">
+				<manufacturer>manufacturer</manufacturer>
+				<year_of_issue>year_of_issue</year_of_issue>
+				<engine_view>engine view</engine_view>
+				<power>power</power>
+				<weight>weight</weight>
+			</full>
+		</tariff_ID>
+	</water_transport>
+</movables_insurance>

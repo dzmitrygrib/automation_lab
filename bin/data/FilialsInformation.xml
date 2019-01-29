@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Filials>
+	<filial city="Minsk">
+		<employees_number>24</employees_number>
+	</filial>
+	<filial city="Brest">
+		<employees_number>14</employees_number>
+	</filial>
+	<filial city="Grodno">
+		<employees_number>12</employees_number>
+	</filial>
+	<filial city="Vitebsk">
+		<employees_number>16</employees_number>
+	</filial>
+	<filial city="Mogilyov">
+		<employees_number>15</employees_number>
+	</filial>
+	<filial city="Bobruisk">
+		<employees_number>8</employees_number>
+	</filial>
+	<filial city="Orsha">
+		<employees_number>11</employees_number>
+	</filial>
+	<filial city="Pinsk">
+		<employees_number>8</employees_number>
+	</filial>
+	<filial city="Gomel">
+		<employees_number>15</employees_number>
+	</filial>
+	<filial city="Borisov">
+		<employees_number>6</employees_number>
+	</filial>
+</Filials> 		 

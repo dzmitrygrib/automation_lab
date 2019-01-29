@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cataclisms>
+	<hurricane name="Rita" year="2005">Information</hurricane>
+	<hurricane name="Wilma" year="2006">Information</hurricane>
+	<hurricane name="Ivan" year="2004">Information</hurricane>
+	<hurricane name="Ike" year="2004">Information</hurricane>
+	<hurricane name="Andrew" year="2006">Information</hurricane>
+	<hurricane name="Irma" year="2004">Information</hurricane>
+	<hurricane name="Sandy" year="2005">Information</hurricane>
+	<hurricane name="Maria" year="2006">Information</hurricane>
+	<hurricane name="Harvey" year="2004">Information</hurricane>
+	<hurricane name="Katrina" year="2005">Information</hurricane>
+</Cataclisms>

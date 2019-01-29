@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients>
+	<client>
+		<name>Olga Vasilieva</name>
+		<age>34</age>
+		<purchase_insurance_programs>
+			<realty_insurance numeration="1">
+				<houses numeration="11">
+					<tariff_ID>112</tariff_ID>
+				</houses>
+				<apartments numeration="12">
+					<tariff_ID>115</tariff_ID>
+				</apartments>
+			</realty_insurance>
+			<movables_insurance numeration="2">
+				<cars numeration="21">
+					<tariff_ID> 213 </tariff_ID>
+				</cars>
+				<motorcycles numeration="22">
+					<tariff_ID></tariff_ID>
+				</motorcycles>
+				<water_transport numeration="23">
+					<tariff_ID></tariff_ID>
+				</water_transport>
+			</movables_insurance>
+			<health_insurance numeration="3">
+				<trips_abroad_traveling numeration="31">
+					<life_insurance numeration="311">
+						<tariff_ID></tariff_ID>
+					</life_insurance>
+					<illness_insurance numeration="312">
+						<tariff_ID>3122</tariff_ID>
+					</illness_insurance>
+				</trips_abroad_traveling>
+				<home_insurance numeration="32">
+					<life_insurance numeration="321">
+						<tariff_ID></tariff_ID>
+					</life_insurance>
+					<illness_insurance numeration="322">
+						<tariff_ID>3222</tariff_ID>
+					</illness_insurance>
+				</home_insurance>
+			</health_insurance>
+		</purchase_insurance_programs>
+		<personal_IDcard>
+			<personal_IDcard_number>DF66516568</personal_IDcard_number>
+		</personal_IDcard>
+		<personal_discount>4%</personal_discount>
+	</client>
+
+	<client>
+		<name>Viktor Ivanov</name>
+		<age>30</age>
+		<purchase_insurance_programs>
+			<realty_insurance numeration="1">
+				<houses numeration="11">
+					<tariff_ID></tariff_ID>
+				</houses>
+				<apartments numeration="12">
+					<tariff_ID>121</tariff_ID>
+				</apartments>
+			</realty_insurance>
+			<movables_insurance numeration="2">
+				<cars numeration="21">
+					<tariff_ID></tariff_ID>
+				</cars>
+				<motorcycles numeration="22">
+					<tariff_ID>221</tariff_ID>
+				</motorcycles>
+				<water_transport numeration="23">
+					<tariff_ID>233</tariff_ID>
+				</water_transport>
+			</movables_insurance>
+			<health_insurance numeration="3">
+				<trips_abroad_traveling numeration="31">
+					<life_insurance numeration="311">
+						<tariff_ID></tariff_ID>
+					</life_insurance>
+					<illness_insurance numeration="312">
+						<tariff_ID></tariff_ID>
+					</illness_insurance>
+				</trips_abroad_traveling>
+				<home_insurance numeration="32">
+					<life_insurance numeration="321">
+						<tariff_ID>3212</tariff_ID>
+					</life_insurance>
+					<illness_insurance numeration="322">
+						<tariff_ID>3225</tariff_ID>
+					</illness_insurance>
+				</home_insurance>
+			</health_insurance>
+		</purchase_insurance_programs>
+		<personal_IDcard>
+			<personal_IDcard_number>KJ6546513468</personal_IDcard_number>
+		</personal_IDcard>
+		<personal_discount>1%</personal_discount>
+	</client>
+
+	<client>
+		<name>Irina Petrova</name>
+		<age>24</age>
+		<purchase_insurance_programs>
+			<realty_insurance numeration="1">
+				<houses numeration="11">
+					<tariff_ID>112</tariff_ID>
+				</houses>
+				<apartments numeration="12">
+					<tariff_ID></tariff_ID>
+				</apartments>
+			</realty_insurance>
+			<movables_insurance numeration="2">
+				<cars numeration="21">
+					<tariff_ID> 214 </tariff_ID>
+				</cars>
+				<motorcycles numeration="22">
+					<tariff_ID></tariff_ID>
+				</motorcycles>
+				<water_transport numeration="23">
+					<tariff_ID></tariff_ID>
+				</water_transport>
+			</movables_insurance>
+			<health_insurance numeration="3">
+				<trips_abroad_traveling numeration="31">
+					<life_insurance numeration="311">
+						<tariff_ID>3111</tariff_ID>
+					</life_insurance>
+					<illness_insurance numeration="312">
+						<tariff_ID>3123</tariff_ID>
+					</illness_insurance>
+				</trips_abroad_traveling>
+				<home_insurance numeration="32">
+					<life_insurance numeration="321">
+						<tariff_ID></tariff_ID>
+					</life_insurance>
+					<illness_insurance numeration="322">
+						<tariff_ID></tariff_ID>
+					</illness_insurance>
+				</home_insurance>
+			</health_insurance>
+		</purchase_insurance_programs>
+		<personal_IDcard>
+			<personal_IDcard_number>RT5641561684</personal_IDcard_number>
+		</personal_IDcard>
+		<personal_discount>5%</personal_discount>
+	</client>
+
+	<client>
+		<name>Marina Globash</name>
+		<age>25</age>
+		<purchase_insurance_programs>
+			<realty_insurance numeration="1">
+				<houses numeration="11">
+					<tariff_ID></tariff_ID>
+				</houses>
+				<apartments numeration="12">
+					<tariff_ID></tariff_ID>
+				</apartments>
+			</realty_insurance>
+			<movables_insurance numeration="2">
+				<cars numeration="21">
+					<tariff_ID> 213 </tariff_ID>
+				</cars>
+				<motorcycles numeration="22">
+					<tariff_ID></tariff_ID>
+				</motorcycles>
+				<water_transport numeration="23">
+					<tariff_ID></tariff_ID>
+				</water_transport>
+			</movables_insurance>
+			<health_insurance numeration="3">
+				<trips_abroad_traveling numeration="31">
+					<life_insurance numeration="311">
+						<tariff_ID></tariff_ID>
+					</life_insurance>
+					<illness_insurance numeration="312">
+						<tariff_ID>3124</tariff_ID>
+					</illness_insurance>
+				</trips_abroad_traveling>
+				<home_insurance numeration="32">
+					<life_insurance numeration="321">
+						<tariff_ID>3211</tariff_ID>
+					</life_insurance>
+					<illness_insurance numeration="322">
+						<tariff_ID></tariff_ID>
+					</illness_insurance>
+				</home_insurance>
+			</health_insurance>
+		</purchase_insurance_programs>
+		<personal_IDcard>
+			<personal_IDcard_number>MN644876568</personal_IDcard_number>
+		</personal_IDcard>
+		<personal_discount>2%</personal_discount>
+	</client>
+
+</clients>

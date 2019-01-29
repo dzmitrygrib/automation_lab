@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<investments>
+<investment date="9.7.2017" category="Finance" amount="-100.000$"> Purchase of bank bonds.
+</investment>
+<investment date="20.12.2017" category="Own property" amount="-80.000$"> Buying space for a new office.
+</investment>
+<investment date="02.05.2018" category="Privatization" amount="-200.000$"> Privatization of a bankrupt enterprise.
+</investment>
+<investment date="14.06.2018" category="Education" amount="-3.000$"> Conduct three-month refresher courses for middle managers.
+</investment>
+<investment date="10.09.2018" category="Finance" amount="-400.000$"> Bank deposit.
+</investment>
+<investment date="11.12.2018" category="Finance" amount="-150.000$"> Purchase of precious metals.
+</investment>
+<investment date="15.01.2019" category="Own property" amount="-350.000$"> Purchase of non-residential real estate for the purpose of renting.
+</investment>
+</investments>

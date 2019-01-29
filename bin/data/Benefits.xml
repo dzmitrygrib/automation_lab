@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<benefits>
+<not_insurance_benefit>
+<benefit date="9.7.2018" category="Finance" amount="+20.000$"> Making a profit from bank bonds.
+</benefit>
+<benefit date="25.05.2018" category="Own property" amount="+200.000$"> Sale of mortgaged property.
+</benefit>
+<benefit date="19.11.2018" category="Privatization" amount="+300.000$"> Sale of a privatized enterprise.
+</benefit>
+<benefit date="10.09.2019" category="Finance" amount="+40.000$"> Receiving payments on bank deposits.
+</benefit>
+</not_insurance_benefit>
+<all_insurance_benefit date="every month" category="Insurance activity" full_amount="+400.000$"> Making a profit from insurance activity.
+<insurance_benefit>
+			<realty_insurance numeration="1" full_amount = "+100.000$">
+				<houses numeration="11" date="every month" category="Insurance activity" amount="+50.000$">
+				</houses>
+				<apartments numeration="12" date="every month" category="Insurance activity" amount="+50.000$">
+				</apartments>
+			</realty_insurance>
+			<movables_insurance numeration="2" full_amount = "+250.000$">
+				<cars numeration="21" date="every month" category="Insurance activity" amount="+150.000$">
+				</cars>
+				<motorcycles numeration="22" date="every month" category="Insurance activity" amount="+50.000$">
+				</motorcycles>
+				<water_transport numeration="23" date="every month" category="Insurance activity" amount="+50.000$">
+				</water_transport>
+			</movables_insurance>
+			<health_insurance numeration="3" full_amount = "+50.000$">
+				<trips_abroad_traveling numeration="31" full_amount = "+30.000$">
+					<life_insurance numeration="311" date="every month" category="Insurance activity" amount="+10.000$">
+					</life_insurance>
+					<illness_insurance numeration="312" date="every month" category="Insurance activity" amount="+20.000$">
+					</illness_insurance>
+				</trips_abroad_traveling>
+				<home_insurance numeration="32" full_amount = "+20.000$">
+					<life_insurance numeration="321" date="every month" category="Insurance activity" amount="+10.000$">
+					</life_insurance>
+					<illness_insurance numeration="322" date="every month" category="Insurance activity" amount="+10.000$">
+					</illness_insurance>
+				</home_insurance>
+			</health_insurance>
+		</insurance_benefit>
+</all_insurance_benefit>
+
+</benefits>

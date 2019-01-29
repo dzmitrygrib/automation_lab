@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- message -->
+<managersList>
+	<manager>
+		<name>Alex Petrov</name>
+		<age>37</age>
+		<work_experience>12</work_experience>
+		<personal_achievements>A year ago he increased sales by 10 percent at
+			his branch.</personal_achievements>
+		<personal_reward>5 %</personal_reward>
+	</manager>
+	<manager>
+		<name>Vladislav Zaiko</name>
+		<age>26</age>
+		<work_experience>4</work_experience>
+		<personal_achievements>no achievments</personal_achievements>
+		<personal_reward>3 %</personal_reward>
+	</manager>
+	<manager>
+		<name>Mihail Beganov</name>
+		<age>30</age>
+		<work_experience>8</work_experience>
+		<personal_achievements>Made the biggest deal in the history of the
+			branch.</personal_achievements>
+		<personal_reward>6 %</personal_reward>
+	</manager>
+	<manager>
+		<name>Valeria Polonskaya</name>
+		<age>24</age>
+		<work_experience> 3 </work_experience>
+		<personal_achievements>no achievments</personal_achievements>
+		<personal_reward>3 %</personal_reward>
+	</manager>
+	<manager>
+		<name>Ekaterina Marchenko</name>
+		<age>40</age>
+		<work_experience> 5 </work_experience>
+		<personal_achievements>no achievments</personal_achievements>
+		<personal_reward>4 %</personal_reward>
+	</manager>
+
+</managersList>

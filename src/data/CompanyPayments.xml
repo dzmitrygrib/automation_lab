@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company_payments>
+<not_insurance_company_payments>
+<payment period="behind 2018" category="Salary" amount="-400.000$"> Salaries for employees and managers.
+</payment>
+<payment period="behind 2018" category="Office rent" amount="-36.000$"> Office rental fees.
+</payment>
+<payment period="behind 2018" category="Utilities" amount="-8.000$"> Payment for utilities.
+</payment>
+<payment period="behind 2018" category="Equipment and furniture" amount="-5.000$"> Purchases of office equipment and furniture.
+</payment>
+<payment period="behind 2018" category="Repairs" amount="-2.000$"> The cost of maintenance of premises.
+</payment>
+</not_insurance_company_payments>
+<all_insurance_payments period="behind 2018" category="Insurance payments" full_amount="+400.000$"> Making a profit from insurance activity.
+<insurance_company_payments>
+			<realty_insurance numeration="1" full_amount = "-20.000$">
+				<houses numeration="11" period="behind 2018" category="Insurance payments" amount="-10.000$">
+				</houses>
+				<apartments numeration="12" period="behind 2018" category="Insurance payments" amount="-10.000$">
+				</apartments>
+			</realty_insurance>
+			<movables_insurance numeration="2" full_amount = "-40.000$">
+				<cars numeration="21" period="behind 2018" category="Insurance payments" amount="-30.000$">
+				</cars>
+				<motorcycles numeration="22" period="behind 2018" category="Insurance payments" amount="-8.000$">
+				</motorcycles>
+				<water_transport numeration="23" period="behind 2018" category="Insurance payments" amount="-2.000$">
+				</water_transport>
+			</movables_insurance>
+			<health_insurance numeration="3" full_amount = "-20.000$">
+				<trips_abroad_traveling numeration="31" full_amount = "-10.000$">
+					<life_insurance numeration="311" period="behind 2018" category="Insurance payments" amount="-5.000$">
+					</life_insurance>
+					<illness_insurance numeration="312" period="behind 2018" category="Insurance payments" amount="-5.000$">
+					</illness_insurance>
+				</trips_abroad_traveling>
+				<home_insurance numeration="32" full_amount = "-10.000$">
+					<life_insurance numeration="321" period="behind 2018" category="Insurance payments" amount="-5.000$">
+					</life_insurance>
+					<illness_insurance numeration="322" period="behind 2018" category="Insurance payments" amount="-5.000$">
+					</illness_insurance>
+				</home_insurance>
+			</health_insurance>
+		</insurance_company_payments>
+</all_insurance_payments>
+</company_payments>

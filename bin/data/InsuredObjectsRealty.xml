@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realty_insurance numeration="1">
+	<houses numeration="11">
+		<tariff_ID>
+			<lite numeration="111">
+				<houseID number="number">
+					<address>address</address>
+					<number_of_floors>number of floors</number_of_floors>
+					<square>square</square>
+				</houseID>
+			</lite>
+			<lite_plus numeration="112">
+				<houseID number="number">
+					<address>address</address>
+					<number_of_floors>number of floors</number_of_floors>
+					<square>square</square>
+				</houseID>
+			</lite_plus>
+			<middle numeration="113">
+				<houseID number="number">
+					<address>address</address>
+					<number_of_floors>number of floors</number_of_floors>
+					<square>square</square>
+				</houseID>
+			</middle>
+			<middle_plus numeration="114">
+				<houseID number="number">
+					<address>address</address>
+					<number_of_floors>number of floors</number_of_floors>
+					<square>square</square>
+				</houseID>
+			</middle_plus>
+			<full numeration="115">
+				<houseID number="number">
+					<address>address</address>
+					<number_of_floors>number of floors</number_of_floors>
+					<square>square</square>
+				</houseID>
+			</full>
+		</tariff_ID>
+	</houses>
+	<apartments numeration="12">
+		<tariff_ID>
+			<lite numeration="121">
+				<apartmentID number="number">
+					<address>address</address>
+					<floor>floor</floor>
+					<number_of_bedrooms>number_of_bedrooms</number_of_bedrooms>
+					<square>square</square>
+				</apartmentID>
+			</lite>
+			<lite_plus numeration="122">
+				<apartmentID number="number">
+					<address>address</address>
+					<floor>floor</floor>
+					<number_of_bedrooms>number_of_bedrooms</number_of_bedrooms>
+					<square>square</square>
+				</apartmentID>
+			</lite_plus>
+			<middle numeration="123">
+				<apartmentID number="number">
+					<address>address</address>
+					<floor>floor</floor>
+					<number_of_bedrooms>number_of_bedrooms</number_of_bedrooms>
+					<square>square</square>
+				</apartmentID>
+			</middle>
+			<middle_plus numeration="124">
+				<apartmentID number="number">
+					<address>address</address>
+					<floor>floor</floor>
+					<number_of_bedrooms>number_of_bedrooms</number_of_bedrooms>
+					<square>square</square>
+				</apartmentID>
+			</middle_plus>
+			<full numeration="125">
+				<apartmentID number="number">
+					<address>address</address>
+					<floor>floor</floor>
+					<number_of_bedrooms>number_of_bedrooms</number_of_bedrooms>
+					<square>square</square>
+				</apartmentID>
+			</full>
+		</tariff_ID>
+	</apartments>
+</realty_insurance>
