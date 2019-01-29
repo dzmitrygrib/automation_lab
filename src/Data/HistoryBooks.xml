@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xml>
 	<HistoryBooksList>
 		<HisBook1 genre="history" cost="10">
 			<Name>Rome</Name>
@@ -18,3 +19,4 @@
 		<HisBook4/>
 		<HisBook5/>
 	</HistoryBookList>
+</xml>

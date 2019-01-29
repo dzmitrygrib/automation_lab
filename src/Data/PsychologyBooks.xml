@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xml>
 	<PsychologyBooksList>
 		<PsyBook1 genre="psychology" cost="33">
 			<Name>ThinkSlowly</Name>
@@ -18,3 +19,4 @@
 		<PsyBook4/>
 		<PsyBook5/>
 	</PsychologyBookList>
+</xml>

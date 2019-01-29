@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xml>
 	<BookGenre>
 		<Genre1>Romantic</Genre1>
 		<Genre2>Historic</Genre2>
@@ -16,3 +17,4 @@
 		<Genre14>Humor</Genre14>
 		<Genre15>Science</Genre15>
 	</BookGenre>
+</xml>

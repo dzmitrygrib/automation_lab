@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xml>
 	<FairyTailBooksList>
 		<FairyBook1 genre="fairytail" cost="5">
 			<Name>TheLittlePrince</Name>
@@ -18,3 +19,4 @@
 		<FairyBook4/>
 		<FairyBook5/>
 	</FairyTailBookList>
+</xml>
