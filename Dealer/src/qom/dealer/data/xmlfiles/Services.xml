@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<root>
+		<service valume="S1">Credit</service>
+		<service valume="S2">Installment plan</service>
+		<service valume="S3">Leasing</service>
+		<service valume="S4">Hire</service>
+		<service valume="S5">Warranty</service>
+	</root>
+</xml>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<root>
+		<additions value="A1">Resale</additions>
+		<additions value="A2">Consulting</additions>
+		<additions value="A3">Driving instruction</additions>
+		<additions value="A4">Hosting an event</additions>
+	</root>
+</xml>

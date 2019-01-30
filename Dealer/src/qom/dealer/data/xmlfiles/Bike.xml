@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<root>
+		<car>
+			<bike>
+				<bmw value="71">
+					<price>5000</price>
+					<tankVol>10</tankVol>
+				</bmw>
+				<bmw value="72">
+					<price>6000</price>
+					<tankVol>15</tankVol>
+				</bmw>
+				<harley value="81">
+					<price>6000</price>
+					<tankVol>20</tankVol>
+				</harley>
+				<harley value="82">
+					<price>6200</price>
+					<tankVol>12</tankVol>
+				</harley>
+				<minsk value="91">
+					<price>6500</price>
+					<tankVol>11</tankVol>
+				</minsk>
+				<minsk value="92">
+					<price>6900</price>
+					<tankVol>16</tankVol>
+				</minsk>
+			</bike>
+		</car>
+	</root>
+</xml>
