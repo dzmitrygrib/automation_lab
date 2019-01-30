@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<root>
+		<Car value="1">Truck</Car>
+		<Car value="2">Passenger</Car>
+		<Car value="3">Bike</Car>
+	</root>
+</xml>

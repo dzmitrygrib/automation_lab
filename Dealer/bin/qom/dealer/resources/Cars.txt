@@ -1,0 +1,6 @@
+Bmw 5000.0
+Scania 30000.6
+Audi 5000.0
+Bmw 5000.0
+Scania 30000.6
+Audi 5000.0

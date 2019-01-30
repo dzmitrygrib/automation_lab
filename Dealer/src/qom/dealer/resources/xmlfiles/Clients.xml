@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<root>
+		<client value="C1">Jack</client>
+		<client value="C2">Larry</client>
+		<client value="C3">Peter</client>
+		<client value="C4">Harry</client>
+		<client value="C5">Marry</client>
+		<client value="C6">Dima</client>
+		<client value="C7">Nikolas</client>
+		<client value="C8">Jarvis</client>
+		<client value="C9">Ron</client>
+	</root>
+</xml>
