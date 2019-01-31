@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<car brand="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="xsdfiles//TruckSchema.xsd">
+	<truck>
+		<maz serialId="11">
+			<price>5000</price>
+			<capacity>100</capacity>
+		</maz>
+		<maz serialId="12">
+			<price>6000</price>
+			<capacity>110</capacity>
+		</maz>
+		<iveco serialId="21">
+			<price>6000</price>
+			<capacity>110</capacity>
+		</iveco>
+		<iveco serialId="22">
+			<price>6200</price>
+			<capacity>85</capacity>
+		</iveco>
+		<scania serialId="31">
+			<price>6500</price>
+			<capacity>90</capacity>
+		</scania>
+		<scania serialId="32">
+			<price>6900</price>
+			<capacity>100</capacity>
+		</scania>
+	</truck>
+</car>

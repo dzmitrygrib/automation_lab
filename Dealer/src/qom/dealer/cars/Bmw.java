@@ -1,0 +1,25 @@
+package qom.dealer.cars;
+
+public class Bmw extends Bike {
+
+	public Bmw(String name, double price, int tankVol) {
+		super(name, price, tankVol);
+
+	}
+
+	public Bmw() {
+
+	}
+
+	@Override
+	public int getTankVol() {
+		return (int) Math.round(super.getTankVol() * 0.8);
+	}
+
+	@Override
+	public void display() {
+		System.out.println("Truck: " + super.getName() + ". Price: " + super.getPrice() + "Capacity:" + getTankVol());
+
+	}
+
+}
