@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+		<xs:element name="xml">
+			<xs:complexType>
+    			<xs:sequence>
+					<xs:element name="FantasyBooksList">
+						<xs:complexType>
+			      			<xs:sequence>
+			      				<xs:element name="FreeFantasyBooks">
+			      					<xs:complexType>
+			      						<xs:sequence>
+			      							<xs:element name="FantasyBook1">
+			      								<xs:complexType>
+			      									<xs:sequence>
+			      										<xs:attribute genre="fantasy" type="xs:string"/>
+			      										<xs:attribute cost="0" type="xs:integer"/>
+			      											<xs:simpleType>
+			      												<xs:restriction base="xs:integer">
+			         												<xs:pattern value="[0]"/>
+			      												</xs:restriction>
+			   												</xs:simpleType>
+			      										<xs:element name="HarryPotter" type="xs:string"/> 
+			      										<xs:element author="J.Rouling" type="xs:string"/> 
+			      										<xs:element year="1999" type="xs:positiveInteger"/> 
+			      									</xs:sequence>
+						   						</xs:complexType>
+						   					</xs:element>
+			      						</xs:sequence>
+						   			</xs:complexType>
+						      	</xs:element>
+						      	<xs:element name="PaidFantasyBooks">
+			      					<xs:complexType>
+			      						<xs:sequence>
+			      							<xs:element name="FantasyBook2">
+			      								<xs:complexType>
+			      									<xs:sequence>
+			      										<xs:attribute genre="fantasy" type="xs:string"/>
+			      										<xs:attribute cost="13" type="xs:nonNegativeInteger"/>
+			      										<xs:element name="TheLordOfTheRings" type="xs:string"/> 
+			      										<xs:element author="J.Tolkin" type="xs:string"/> 
+			      										<xs:element year="1956" type="xs:positiveInteger"/> 
+			      									</xs:sequence>
+						   						</xs:complexType>
+						   					</xs:element>
+						   					<xs:element name="FantasyBook3">
+			      								<xs:complexType>
+			      									<xs:sequence>
+			      										<xs:attribute genre="fantasy" type="xs:string"/>
+			      										<xs:attribute cost="11" type="xs:nonNegativeInteger"/>
+			      										<xs:element name="TheGraceOfKings" type="xs:string"/> 
+			      										<xs:element author="G.Lee" type="xs:string"/> 
+			      										<xs:element year="1986" type="xs:positiveInteger"/> 
+			      									</xs:sequence>
+						   						</xs:complexType>
+						   					</xs:element>
+						   					<xs:element name="FantasyBook4">
+			      								<xs:complexType>
+			      								</xs:complexType>
+			      							</xs:element>
+			      							<xs:element name="FantasyBook5">
+			      								<xs:complexType>
+			      								</xs:complexType>
+			      							</xs:element>
+			      						</xs:sequence>
+						   			</xs:complexType>
+						      	</xs:element>
+						    </xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>

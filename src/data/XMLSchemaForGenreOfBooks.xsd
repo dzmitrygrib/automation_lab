@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+		<xs:element name="xml">
+			<xs:complexType>
+    			<xs:sequence>
+					<xs:element name="BookGenre">
+						<xs:complexType>
+			      			<xs:sequence>
+				      			<xs:element name="Genre1">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Romantic">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre2">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Historic">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre3">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Biography">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre4">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Detective">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre5">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Psychology">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre6">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Fairytail">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre7">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Fantasy">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre8">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Fantastic">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre9">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Comics">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre10">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Magazine">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre11">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Drama">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre12">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Horror">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre13">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Adventure">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre14">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Humor">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								
+								<xs:element name="Genre15">
+									<xs:complexType>
+				      					<xs:sequence>
+				      						<xs:element name="Science">
+												<xs:complexType>
+				      								<xs:sequence>
+							    					</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+							    		</xs:sequence>
+									</xs:complexType>
+								</xs:element>								
+						    </xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
