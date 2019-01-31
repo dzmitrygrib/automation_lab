@@ -2,6 +2,7 @@ package com.qaprosoft.social_network.threads;
 
 import java.util.HashMap;
 import java.util.LinkedList;
+import java.util.Scanner;
 
 import com.qaprosoft.social_network.account.Account;
 import com.qaprosoft.social_network.account.PersonalAccount;
@@ -14,12 +15,20 @@ public class Processor {
 	
 	private final int LIMIT = 5;
 	private int count = 1;
+//	private int desiredNumberOfAccounts = 0;
 	
 	private boolean isActive = true;
 	
 	private Object lock = new Object();
 	
 	public void produce() {
+		
+//		System.out.println("How many accounts do you want?");
+//		
+//		Scanner scanner = new Scanner(System.in);
+//		desiredNumberOfAccounts = Integer.parseInt(scanner.nextLine());
+//		scanner.close();
+		
 		while (isActive) {
 			
 			try {
@@ -74,6 +83,9 @@ public class Processor {
 				System.out.println();
 				accountsFromThread.put(user.getName(), pa);
 				System.out.println("Account created. User list size: " + usersFromThread.size());
+//				if (accountsFromThread.size() == desiredNumberOfAccounts) {
+//					stopThreads();
+//				}
 				System.out.println();
 				lock.notify();
 			}

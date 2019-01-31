@@ -5,7 +5,6 @@ import java.util.Scanner;
 import java.util.Set;
 
 import com.qaprosoft.social_network.account.Account;
-import com.qaprosoft.social_network.input_output.IO;
 import com.qaprosoft.social_network.threads.AccountCreationThread;
 import com.qaprosoft.social_network.threads.UserCreationThread;
 import com.qaprosoft.social_network.user.User;
