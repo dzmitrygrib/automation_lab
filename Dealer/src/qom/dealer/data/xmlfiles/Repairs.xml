@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<root>
+		<repairs value="R1">Overhaul</repairs>
+		<repairs value="R2">Redecorating</repairs>
+		<repairs value="R3">Reconstruction</repairs>
+		<repairs value="R4">Upgrade</repairs>
+		<repairs value="R5">Replacement</repairs>
+	</root>
+</xml>
