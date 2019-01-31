@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<documents>
+	
+		<document id = "1">
+			<name>File1</name>
+			<document_type>doc</document_type>
+		</document>
+		
+		<document id = "2">
+			<name>File2</name>
+			<document_type>xls</document_type>
+		</document>
+		
+		<document id = "3">
+			<name>File3</name>
+			<document_type>java</document_type>
+		</document>
+		
+		<document id = "4">
+			<name>File4</name>
+			<document_type>pdf</document_type>
+		</document>
+		
+		<document id = "5">
+			<name>File5</name>
+			<document_type>dwg</document_type>
+		</document>
+	
+	</documents>
+</xml>
