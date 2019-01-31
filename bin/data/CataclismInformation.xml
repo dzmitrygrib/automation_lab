@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Cataclisms>
+<Cataclisms xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+xsi:noNamespaceSchemaLocation="CataclismInformationSchema.xsd">
 	<hurricane name="Rita" year="2005">Information</hurricane>
 	<hurricane name="Wilma" year="2006">Information</hurricane>
 	<hurricane name="Ivan" year="2004">Information</hurricane>

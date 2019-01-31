@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified"
+	xmlns:tns="http://www.example.org/FilialsInformationSchema"
+	elementFormDefault="qualified"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	
+	<xs:element name="employees_number" type="xs:positiveInteger"></xs:element>
+	<xs:element name="filial">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="employees_number"></xs:element>
+			</xs:sequence>
+			<xs:attribute type="xs:string" name="city" use="optional"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Filials">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="filial" maxOccurs="unbounded" minOccurs="0"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

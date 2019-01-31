@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Filials>
+<Filials xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+xsi:noNamespaceSchemaLocation="FilialsInformationSchema.xsd">
 	<filial city="Minsk">
 		<employees_number>24</employees_number>
 	</filial>

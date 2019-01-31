@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:x="http://www.example.org/InvestmentsSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="investments" type="investmentsType"></xs:element>
+  <xs:complexType name="investmentType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="date" use="optional"></xs:attribute>
+        <xs:attribute type="xs:string" name="category" use="optional"></xs:attribute>
+        <xs:attribute type="xs:string" name="amount" use="optional"></xs:attribute>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="investmentsType">
+    <xs:sequence>
+      <xs:element type="investmentType" name="investment" maxOccurs="unbounded" minOccurs="0"></xs:element>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
