@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-	<root>
 		<car>
 			<bike>
 				<bmw value="71">
@@ -29,5 +28,4 @@
 				</minsk>
 			</bike>
 		</car>
-	</root>
 </xml>
