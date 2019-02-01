@@ -1,0 +1,40 @@
+<xml>
+	<service>
+		<homeNet>
+			<name>connectStart</name>
+			<cost>10.5</cost>
+			<speed>5 Mbit/sec</speed>
+			<speedNight>10 Mbit/sec</speedNight>
+		</homeNet>
+		<homeNet>
+			<name>connect1</name>
+			<cost>16.0</cost>
+			<speed>10 Mbit/sec</speed>
+			<speedNight>20 Mbit/sec</speedNight>
+		</homeNet>
+		<homeNet>
+			<name>connect2</name>
+			<cost>21.0</cost>
+			<speed>25 Mbit/sec</speed>
+			<speedNight>50 Mbit/sec</speedNight>
+		</homeNet>
+		<homeNet>
+			<name>connect3</name>
+			<cost>26.0</cost>
+			<speed>50 Mbit/sec</speed>
+			<speedNight>100 Mbit/sec</speedNight>
+		</homeNet>
+		<homeNet>
+			<name>connect4</name>
+			<cost>31.0</cost>
+			<speed>75 Mbit/sec</speed>
+			<speedNight>150 Mbit/sec</speedNight>
+		</homeNet>
+		<homeNet>
+			<name>connect5</name>
+			<cost>36.0</cost>
+			<speed>100 Mbit/sec</speed>
+			<speedNight>200 Mbit/sec</speedNight>
+		</homeNet>
+	</service>
+</xml>

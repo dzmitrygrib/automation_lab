@@ -1,0 +1,46 @@
+<xml>
+	<service>
+		<tariff name = "Lite">
+			<cost>0.0</cost>
+			<numMin>0</numMin>
+			<numMB>0</numMB>
+			<costMin>0.05</costMin>
+			<costMB>0.02</costMB>
+		</tariff>
+		<tariff name = "S">
+			<cost>5.0</cost>
+			<numMin>100</numMin>
+			<numMB>1000</numMB>
+			<costMin>0.1</costMin>
+			<costMB>0.05</costMB>
+		</tariff>
+		<tariff name = "M">
+			<cost>7.0</cost>
+			<numMin>200</numMin>
+			<numMB>2000</numMB>
+			<costMin>0.08</costMin>
+			<costMB>0.04</costMB>
+		</tariff>
+		<tariff name = "L">
+			<cost>10.0</cost>
+			<numMin>500</numMin>
+			<numMB>5000</numMB>
+			<costMin>0.06</costMin>
+			<costMB>0.03</costMB>
+		</tariff>
+		<tariff name = "Xl">
+			<cost>15.0</cost>
+			<numMin>700</numMin>
+			<numMB>10000</numMB>
+			<costMin>0.05</costMin>
+			<costMB>0.02</costMB>
+		</tariff>
+		<tariff name = "XXl">
+			<cost>20.0</cost>
+			<numMin>1000</numMin>
+			<numMB>15000</numMB>
+			<costMin>0.04</costMin>
+			<costMB>0.02</costMB>
+		</tariff>
+	</service>
+</xml>

@@ -1,0 +1,16 @@
+Lenovo
+200
+4" 
+8 Mp
+Lenovo 
+300
+5"
+12 Mp
+Xiaomi
+500
+5.5" HD
+16 Mp
+Iphone
+100
+6" FullHd
+16 Mp

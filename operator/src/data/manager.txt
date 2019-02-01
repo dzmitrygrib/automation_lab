@@ -1,0 +1,24 @@
+<xml>
+	<worker>
+		<manager id = "1">
+			<name>Tikhon</name>
+			<suname>Kotov</suname>
+			<cellNumber>843-226-5400</cellNumber>
+			<adress>708 Poe Road North Charleston, SC 29420</adress>
+			<email>TikhonKotov@jourrapide.com</email>
+			<sex>male</sex>
+			<birthDate>15.08.1978</birthDate>
+			<contractNumber>111</contractNumber>
+		</manager>
+		<manager id = "2">
+			<name>Igor</name>
+			<suname>Afanasyev</suname>
+			<cellNumber>910-475-0764</cellNumber>
+			<adress>1060 Twin Willow Lane Fayetteville, NC 28307</adress>
+			<email>IgorAfanasyev@rhyta.com</email>
+			<sex>male</sex>
+			<birthDate>15.07.1983</birthDate>
+			<contractNumber>225</contractNumber>
+		</manager>
+	</worker>
+</xml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.example.org/tabletXMLSchema" xmlns:tns="http://www.example.org/tabletXMLSchema" 
+elementFormDefault="qualified">
+
+    <complexType name="store">
+    	<complexContent>
+    		<extension base="tns:tablet"></extension>
+    	</complexContent>
+    </complexType>
+    
+    <complexType name="tablet" mixed="true">
+    	<sequence>
+    		<element name="name" type="string"></element>
+    		<element name="model" type="string"></element>
+    		<element name="operationSystem" type="string"></element>
+    		<element name="screen" type="string"></element>
+    		<element name="resolutionScreen" type="string"></element>
+    		<element name="CPU" type="string"></element>
+    		<element name="RAM" type="string"></element>
+    		<element name="ROM" type="string"></element>
+    		<element name="battary" type="string"></element>
+    		<element name="camera" type="string"></element>
+    		<element name="cost" type="decimal"></element>
+    	</sequence>
+    	<attribute name="budget" type="string"></attribute>
+    </complexType>
+</schema>

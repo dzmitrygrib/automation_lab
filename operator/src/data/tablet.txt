@@ -1,0 +1,95 @@
+<xml>
+	<store>
+		<tablet category = "budget">
+			<name>Prestigio</name>
+			<model>Grace 7781</model>
+			<operationSystem>android 8.1</operationSystem>
+			<screen>10.1"</screen>
+			<resolutionScreen>720x1440</resolutionScreen>
+			<CPU>MediaTek MT6750RM</CPU>
+			<RAM>2 GB</RAM>
+			<ROM>16 GB</ROM>
+			<battary>4800 mAh</battary>
+			<camera>5 MP</camera>
+			<cost>299</cost>
+		</tablet>
+		<tablet category = "budget">
+			<name>Lenovo</name>
+			<model>Tab 4</model> 
+			<operationSystem>android 7.0</operationSystem>
+			<screen>8.0"</screen>
+			<resolutionScreen>1280x800</resolutionScreen>
+			<CPU>MediaTek MT6750RM</CPU>
+			<RAM>2 GB</RAM>
+			<ROM>16 GB</ROM>
+			<battary>4850 mAh</battary>
+			<camera>5 MP</camera>
+			<cost>324</cost>
+		</tablet>
+		<tablet category = "middleClass">
+			<name>Acer</name>
+			<model>Iconia One 10</model>
+			<operationSystem>android 8.1</operationSystem>
+			<screen>10.1"</screen>
+			<resolutionScreen>1920x1200</resolutionScreen>
+			<CPU>MediaTek MT8167</CPU>
+			<RAM>2 GB</RAM>
+			<ROM>32 GB</ROM>
+			<battary>6 100 mAh</battary>
+			<camera>5 MP</camera>
+			<cost>510</cost>
+		</tablet>
+		<tablet category = "middleClass">
+			<name>Huawei</name>
+			<model>MediaPad T5</model>
+			<operationSystem>android 8.0</operationSystem>
+			<screen>10.1"</screen>
+			<resolutionScreen>1920x1080</resolutionScreen>
+			<CPU>HiSilicon Kirin 659</CPU>
+			<RAM>2 GB</RAM>
+			<ROM>	32 GB</ROM>
+			<battary>	5100 mAh</battary>
+			<camera>5 MP</camera>
+			<cost>486</cost>
+		</tablet>
+		<tablet category = "middleClass">
+			<name>Xiaomi</name>
+			<model>Mi Pad 4</model>
+			<operationSystem>android 8.1</operationSystem>
+			<screen>10.1"</screen>
+			<resolutionScreen>1920x1080</resolutionScreen>
+			<CPU>Qualcomm SDM660</CPU>
+			<RAM>4 GB</RAM>
+			<ROM>	64 GB</ROM>
+			<battary>8620 mAh</battary>
+			<camera>13 MP</camera>
+			<cost>767</cost>
+		</tablet>
+		<tablet category = "premium">
+			<name>Apple</name>
+			<model>iPad Pro</model>
+			<operationSystem>iOS 12</operationSystem>
+			<screen>11"</screen>
+			<resolutionScreen>2388x1668</resolutionScreen>
+			<CPU>Apple A12X Bionic</CPU>
+			<RAM>4 GB</RAM>
+			<ROM>	64 GB</ROM>
+			<battary>7220 mAh</battary>
+			<camera>12 MP</camera>
+			<cost>2020</cost>
+		</tablet>
+		<tablet category = "premium">
+			<name>Samsung</name>
+			<model>Galaxy Tab S4</model>
+			<operationSystem>android 8.1</operationSystem>
+			<screen>10.5"</screen>
+			<resolutionScreen>2560x1600</resolutionScreen>
+			<CPU>Qualcomm MSM8998</CPU>
+			<RAM>4 GB</RAM>
+			<ROM>	64 GB</ROM>
+			<battary>7300 mAh</battary>
+			<camera>13 MP</camera>
+			<cost>1500</cost>
+		</tablet>
+	</store>
+</xml>

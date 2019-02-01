@@ -1,0 +1,28 @@
+<xml>
+	<service>
+		<homeTv>
+			<name>homeLite</name>
+			<cost>7.1</cost>
+			<channel>60</channel>
+			<pictureQuality>HD</pictureQuality>
+		</homeTv>
+		<homeTv>
+			<name>homeTv1</name>
+			<cost>9.1</cost>
+			<channel>90</channel>
+			<pictureQuality>HD</pictureQuality>
+		</homeTv>
+		<homeTv>
+			<name>homeTv+</name>
+			<cost>11.1</cost>
+			<channel>120</channel>
+			<pictureQuality>HD</pictureQuality>
+		</homeTv>
+		<homeTv>
+			<name>homeFHD</name>
+			<cost>13.1</cost>
+			<channel>120</channel>
+			<pictureQuality>FHD</pictureQuality>
+		</homeTv>
+	</service>
+</xml>

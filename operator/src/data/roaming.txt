@@ -1,0 +1,46 @@
+<xml>
+	<service>
+		<roaming region = "Europe">
+			<name>Eu1</name>
+			<cost>5.0</cost>
+			<duration>day</duration>
+			<numMin>50</numMin>
+			<numMB>100</numMB>
+		</roaming>
+		<roaming region = "Europe">
+			<name>Eu2</name>
+			<cost>10.0</cost>
+			<duration>day</duration>
+			<numMin>100</numMin>
+			<numMB>300</numMB>
+		</roaming>
+		<roaming region = "Europe">
+			<name>Eu30</name>
+			<cost>50.0</cost>
+			<duration>month</duration>
+			<numMin>500</numMin>
+			<numMB>3000</numMB>
+		</roaming>
+		<roaming region = "Russia">
+			<name>Ru1</name>
+			<cost>3.0</cost>
+			<duration>day</duration>
+			<numMin>50</numMin>
+			<numMB>100</numMB>
+		</roaming>
+		<roaming region = "Russia">
+			<name>Ru2</name>
+			<cost>7.0</cost>
+			<duration>day</duration>
+			<numMin>100</numMin>
+			<numMB>300</numMB>
+		</roaming>
+		<roaming region = "Russia">
+			<name>Ru30</name>
+			<cost>30.0</cost>
+			<duration>month</duration>
+			<numMin>500</numMin>
+			<numMB>3000</numMB>
+		</roaming>
+	</service>
+</xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT store(phone)>
+<!ELEMENT phone(name,model,operationSystem,screen,resolutionScreen,CPU,RAM,ROM,battary,camera,cost)>
+<!ATTLIST phone category CDATA>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT model(#PCDATA)>
+<!ELEMENT operationSystem(#PCDATA)>
+<!ELEMENT screen(#PCDATA)>
+<!ELEMENT resolutionScreen(#PCDATA)>
+<!ELEMENT CPU(#PCDATA)>
+<!ELEMENT RAM(#PCDATA)>
+<!ELEMENT ROM(#PCDATA)>
+<!ELEMENT battary(#PCDATA)>
+<!ELEMENT camera(#PCDATA)>
+<!ELEMENT cost(#PCDATA)>

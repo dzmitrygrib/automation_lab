@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT service(roamming)>
+<!ELEMENT roaming(name,cost,duration,numMin,numMB)>
+<!ATTLIST roaming region CDATA>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT cost(#PCDATA)>
+<!ELEMENT duration(#PCDATA)>
+<!ELEMENT numMin(#PCDATA)>
+<!ELEMENT numMB(#PCDATA)>

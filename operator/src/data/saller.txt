@@ -1,0 +1,34 @@
+<xml>
+	<worker>
+		<seller id = "1">
+			<name>Vladislav</name>
+			<suname>Pirogov</suname>
+			<cellNumber>574-878-5708</cellNumber>
+			<adress>598 Sand Fork Road Plymouth, IN 46563</adress>
+			<email>VladislavPirogov@jourrapide.com</email>
+			<sex>male</sex>
+			<birthDate>21.05.1972</birthDate>
+			<contractNumber>192</contractNumber>
+		</seller>
+		<seller id = "2">
+			<name>Zarina</name>
+			<suname>Kovalyova</suname>
+			<cellNumber>785-395-7002</cellNumber>
+			<adress>1931 Maloy Court Manhattan, KS 66502</adress>
+			<email>ZarinaKovalyova@jourrapide.com</email>
+			<sex>female</sex>
+			<birthDate>25.04.1987</birthDate>
+			<contractNumber>201</contractNumber>
+		</saller>
+		<saller id = "3">
+			<name>Lada</name>
+			<suname>Cherkasova</suname>
+			<cellNumber>781-705-2058</cellNumber>
+			<adress>3546 Tenmile Road Bedford, MA 01730</adress>
+			<email>LadaCherkasova@dayrep.com</email>
+			<sex>female</sex>
+			<birthDate>17.07.1989</birthDate>
+			<contractNumber>289</contractNumber>
+		</saller>	
+	</worker>
+</xml>

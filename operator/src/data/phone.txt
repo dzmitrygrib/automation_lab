@@ -1,0 +1,108 @@
+<xml>
+	<store>
+		<phone category = "budget">
+			<name>Honor</name>
+			<model>7C</model>
+			<operationSystem>android 8.0</operationSystem>
+			<screen>5.7"</screen>
+			<resolutionScreen>720x1440</resolutionScreen>
+			<CPU>Qualcomm Snapdragon 430</CPU>
+			<RAM>3 GB</RAM>
+			<ROM>32 GB</ROM>
+			<battary>3000 mAh</battary>
+			<camera>13 MP</camera>
+			<cost>359</cost>
+		</phone>
+		<phone category = "budget">
+			<name>Meizu</name>
+			<model>M6T</model> 
+			<operationSystem>android 7.0</operationSystem>
+			<screen>5.7"</screen>
+			<resolutionScreen>720x1440</resolutionScreen>
+			<CPU>MediaTek MT6750RM</CPU>
+			<RAM>3 GB</RAM>
+			<ROM>16 GB</ROM>
+			<battary>3300 mAh</battary>
+			<camera>13 MP</camera>
+			<cost>259</cost>
+		</phone>
+		<phone category = "budget">
+			<name>Xiaomi</name>
+			<model>Redmi 6</model>
+			<operationSystem>android 8.1</operationSystem>
+			<screen>5.5"</screen>
+			<resolutionScreen>720x1440</resolutionScreen>
+			<CPU>MediaTek Helio P22</CPU>
+			<RAM>3 GB</RAM>
+			<ROM>32 GB</ROM>
+			<battary>3000 mAh</battary>
+			<camera>13 MP</camera>
+			<cost>339</cost>
+		</phone>
+		<phone category = "middleClass">
+			<name>Xiaomi</name>
+			<model>Mi 8 Lite</model>
+			<operationSystem>android 8.1</operationSystem>
+			<screen>6.26"</screen>
+			<resolutionScreen>1080х2280</resolutionScreen>
+			<CPU>Qualcomm Snapdragon 660</CPU>
+			<RAM>4 GB</RAM>
+			<ROM>	64 GB</ROM>
+			<battary>3350 mAh</battary>
+			<camera>12 MP</camera>
+			<cost>649</cost>
+		</phone>
+		<phone category = "middleClass">
+			<name>Nokia</name>
+			<model>6.1</model>
+			<operationSystem>android 8.0</operationSystem>
+			<screen>5.5"</screen>
+			<resolutionScreen>1080x1920</resolutionScreen>
+			<CPU>Qualcomm Snapdragon 630</CPU>
+			<RAM>3 GB</RAM>
+			<ROM>	32 GB</ROM>
+			<battary>	3000 mAh</battary>
+			<camera>16 MP</camera>
+			<cost>549</cost>
+		</phone>
+		<phone category = "premium">
+			<name>Xiaomi</name>
+			<model>PocoPhone F1</model>
+			<operationSystem>android 8.1</operationSystem>
+			<screen>6"</screen>
+			<resolutionScreen>1080x2248</resolutionScreen>
+			<CPU>Qualcomm Snapdragon 845</CPU>
+			<RAM>6 GB</RAM>
+			<ROM>	64 GB</ROM>
+			<battary>4000 mAh</battary>
+			<camera>12 MP</camera>
+			<cost>939</cost>
+		</phone>
+		<phone category = "premium">
+			<name>Apple</name>
+			<model>iPhone X</model>
+			<operationSystem>iOS 11</operationSystem>
+			<screen>5.8"</screen>
+			<resolutionScreen>1125x2436</resolutionScreen>
+			<CPU>Apple A11 Bionic</CPU>
+			<RAM>3 GB</RAM>
+			<ROM>	64 GB</ROM>
+			<battary>4000 mAh</battary>
+			<camera>12 MP</camera>
+			<cost>2199</cost>
+		</phone>
+		<hone category = "premium">
+			<name>Samsung</name>
+			<model>Galaxy S9</model>
+			<operationSystem>android 8.1</operationSystem>
+			<screen>5.8"</screen>
+			<resolutionScreen>1125x2436</resolutionScreen>
+			<CPU>Exynos 9810</CPU>
+			<RAM>4 GB</RAM>
+			<ROM>	64 GB</ROM>
+			<battary>2716 mAh</battary>
+			<camera>12 MP</camera>
+			<cost>1849</cost>
+		</hone>
+	</store>
+</xml>

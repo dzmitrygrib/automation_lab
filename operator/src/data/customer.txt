@@ -1,0 +1,47 @@
+<xml>
+	<customer id = "1">
+		<name>Leon</name>
+		<suname>Woronoff</suname>
+		<cellNumber>734-968-8246</cellNumber>
+		<adress>26 Bombardier Way Livonia, MI 48150</adress>
+		<email>LeonWoronoff@gmail.com</email>
+		<sex>male</sex>
+		<birthDate>21.07.1992</birthDate>
+	</customer>
+	<customer id = "2">
+		<name>Ahmed</name>
+		<suname>Andrejew</suname>
+		<cellNumber>901-373-5201</cellNumber>
+		<adress>208 Woodridge Lane Memphis, TN 38134</adress>
+		<email>AhmedAndrejew@teleworm.us</email>
+		<sex>male</sex>
+		<birthDate>07.10.1975</birthDate>
+	</customer>
+	<customer id = "3">
+		<name>Cristina</name>
+		<suname>Vinogradova</suname>
+		<cellNumber>912-580-1340</cellNumber>
+		<adress>1957 Lilac Lane Savannah, GA 31401</adress>
+		<email>cristinavinogradova@mail.ru</email>
+		<sex>female</sex>
+		<birthDate>14.01.1985</birthDate>
+	</customer>
+	<customer id = "4">
+		<name>Olga</name>
+		<suname>Polyakova</suname>
+		<cellNumber>336-232-4457</cellNumber>
+		<adress>4089 Bryan Street Greensboro, NC 27409</adress>
+		<email>OlgaPolyakova@jourrapide.com</email>
+		<sex>female</sex>
+		<birthDay>18.11.1956</birthDay>
+	</customer>
+	<customer id = "5">
+		<name>Hleb</name>
+		<suname>Izmaylov</suname>
+		<cellNumber>315-624-5067</cellNumber>
+		<adress>3668 Plainfield Avenue Utica, NY 13502</adress>
+		<email>HlebIzmaylov@armyspy.com</email>
+		<sex>male</sex>
+		<birthDay>26.05.1983</birthDay>
+	</customer>
+</xml>

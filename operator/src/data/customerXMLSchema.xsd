@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.example.org/customerXMLSchema" xmlns:tns="http://www.example.org/customerXMLSchema" 
+elementFormDefault="qualified">
+
+    <element name="customer" type="tns:customer"></element>
+    
+    <complexType name="customer">
+    	<sequence>
+    		<element name="name" type="string"></element>
+    		<element name="surname" type="string"></element>
+    		<element name="cellNumber" type="string"></element>
+    		<element name="adress" type="string"></element>
+    		<element name="email" type="string"></element>
+    		<element name="sex" type="string"></element>
+    		<element name="bithDate" type="date"></element>
+    	</sequence>
+    	<attribute name="id" type="positiveInteger"></attribute>
+    </complexType>
+</schema>
