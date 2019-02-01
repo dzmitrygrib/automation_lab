@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT visaService(schengenVisa)>
+<!ELEMENT schengenVisa(price,time,visaType,timeType)>
+<!ATTLIST schengenVisa country CDATA = "default">
+<!ELEMENT price(#PCDATA)>
+<!ELEMENT time(#PCDATA)>
+<!ELEMENT visaType(#PCDATA)>
+<!ELEMENT typeTime(#PCDATA)>

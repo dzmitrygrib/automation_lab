@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <clientBase xmlns="http://yourdreamtravelling.com" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemalocation="http://yourdreamtravelling.com ClientBaseSchema.xsd">
+        <client id="1">
+            <firstName>Baba</firstName>
+            <lastName>Ali</lastName>
+            <birthData>24/05/1994</birthData>
+            <passportID>AD1234567</passportID>
+            <sex>male</sex>
+            <email>tanmaypatil@xyz.com</email>
+            <address>Minsk,Surganova st.,2</address>
+            <numberPhone>+375291234567</numberPhone>
+            <student>yes</student>
+            <programMember>no</programMember>
+        </client>
+        <client id="2">
+            <firstName>Vasilkova</firstName>
+            <lastName>Elena</lastName>
+            <birthData>28/04/1994</birthData>
+            <passportID>KV2345678</passportID>
+            <sex>female</sex>
+            <email>elena321@xyz.com</email>
+            <address>Minsk,Kuznetsova st.,2</address>
+            <numberPhone>+375336234567</numberPhone>
+            <student>no</student>
+            <programMember>yes</programMember>
+        </client>
+        <client id="3">
+            <firstName>Vasilev</firstName>
+            <lastName>Ilya</lastName>
+            <birthData>29/07/1985</birthData>
+            <passportID>KM85234567</passportID>
+            <sex>male</sex>
+            <email>barr89@xyz.com</email>
+            <address>Minsk,Kuznetsova st.,2</address>
+            <numberPhone>+375336239667</numberPhone>
+            <student>no</student>
+            <programMember>yes</programMember>
+        </client>
+        <client id="4">
+            <firstName>Afanasyev</firstName>
+            <lastName>Anton</lastName>
+            <birthData>23/07/1998</birthData>
+            <passportID>KM85234567</passportID>
+            <sex>male</sex>
+            <email>barr89@xyz.com</email>
+            <address>Minsk,Koltsova st.,85</address>
+            <numberPhone>+375336239667</numberPhone>
+            <student>yes</student>
+            <programMember>yes</programMember>
+        </client>
+    </clientBase>

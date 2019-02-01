@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour>
+        <cruiseTour country="Norway">
+            <name>All of Scandinavia and Norwegian fjords!</name>
+            <resort>Oslo, Copenhagen, Stockholm, Riga, Denmark castles</resort>
+            <liner>Viking Line</liner>
+            <price>300$</price>
+            <time>7 days</time>
+            <visa>yes</visa>
+            <typeTour>tourist</typeTour>
+            <food>all inclusive</food>
+            <excursion>yes</excursion>
+        </cruiseTour>
+         <cruiseTour country="Sweden">
+            <name>Weekend in Tallinn with a cruise to Stockholm</name>
+            <resort>Tallinn,Stockholm</resort>
+            <liner>Viking Line</liner>
+            <price>150$</price>
+            <time>4 days</time>
+            <visa>yes</visa>
+            <typeTour>tourist</typeTour>
+            <food>all inclusive</food>
+            <excursion>yes</excursion>
+        </cruiseTour>
+    </tour>

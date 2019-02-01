@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT employee(operator)>
+<!ELEMENT operator(firstName,lastName,birthData,employmentData,contactNo,email,address,numberPhone,post)>
+<!ATTLIST operator id CDATA>
+<!ELEMENT firstName(#PCDATA)>
+<!ELEMENT lastName(#PCDATA)>
+<!ELEMENT birthData(#PCDATA)>
+<!ELEMENT employmentData(#PCDATA)>
+<!ELEMENT contactNo(#PCDATA)>
+<!ELEMENT email(#PCDATA)>
+<!ELEMENT address(#PCDATA)>
+<!ELEMENT numberPhone(#PCDATA)>
+<!ELEMENT post(#PCDATA)>

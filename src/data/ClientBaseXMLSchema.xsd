@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://yourdreamtravelling.com/ClientBase"
+	xmlns:tns="http://yourdreamtravelling.com/ClientBase"
+	elementFormDefault="qualified">
+	
+    <xs:element name="client" type="tns:client"></xs:element>
+    
+    <xs:complexType name="client">
+    	<xs:sequence>
+    		<xs:element name="firstName" type="xs:string"></xs:element>
+    		<xs:element name="lastName" type="xs:string"></xs:element>
+    		<xs:element name="birthData" type="xs:date"></xs:element>
+    		<xs:element name="passportID" type="xs:string"></xs:element>
+    		<xs:element name="sex" type="xs:string"></xs:element>
+    		<xs:element name="email" type="xs:string"></xs:element>
+    		<xs:element name="address" type="xs:string"></xs:element>
+    		<xs:element name="numberPhone" type="xs:string"></xs:element>
+    		<xs:element name="student" type="xs:string"></xs:element>
+    		<xs:element name="programMember" type="xs:string"></xs:element>
+    	</xs:sequence>
+    	<xs:attribute name="id" type="xs:string"></xs:attribute>
+    </xs:complexType>
+
+    <xs:attribute name="NewAttribute" type="xs:int"></xs:attribute>
+
+</xs:schema>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "http://yourdreamtravelling.com/dtd/SchengenVisa.dtd">
+<visaService>
+        <schengenVisa country="Italy">
+            <price>60$</price>
+            <time>30 days</time>
+            <visaType>tourist</visaType>
+            <timeType>multi</timeType>
+        </schengenVisa>
+        <schengenVisa country="France">
+            <price>60$</price>
+            <time>15 days</time>
+            <visaType>tourist</visaType>
+            <timeType>one time</timeType>
+        </schengenVisa>
+        <schengenVisa country="Poland">
+            <price>60$</price>
+            <time>25 days</time>
+            <visaType>tourist</visaType>
+            <timeType>multi</timeType>
+        </schengenVisa>
+        <schengenVisa country="Poland">
+            <price>60$</price>
+            <time>90 days</time>
+            <visaType>shop</visaType>
+            <timeType>multi</timeType>
+        </schengenVisa>
+        <schengenVisa country="Germany">
+            <price>60$</price>
+            <time>10 days</time>
+            <visaType>diplomatic</visaType>
+            <timeType>multi</timeType>
+        </schengenVisa>
+    </visaService>

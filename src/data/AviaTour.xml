@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <tour xmlns="http://yourdreamtravelling.com" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemalocation="http://yourdreamtravelling.com AviaTourXMLSchema.xsd">
+        <aviaTour country="India">
+            <name>Beautiful India</name>
+            <resort>Goa</resort>
+            <hotel>Goa Beach 3*</hotel>
+            <coastline>1</coastline>
+            <price>600$</price>
+            <time>10 days</time>
+            <visa>yes</visa>
+            <typeTour>tourist</typeTour>
+            <food>all inclusive</food>
+            <excursion>no</excursion>
+        </aviaTour>
+        <aviaTour country="Spain">
+            <name>Amazing Catalonia</name>
+            <resort>Catalonia</resort>
+            <hotel>Brussels 4*</hotel>
+            <coastline>1</coastline>
+            <price>800$</price>
+            <time>9 days</time>
+            <visa>yes</visa>
+            <typeTour>tourist</typeTour>
+            <food>breakfast</food>
+            <excursion>yes</excursion>
+        </aviaTour>
+    </tour>

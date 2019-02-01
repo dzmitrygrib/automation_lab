@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour>
+        <wellnessTour country="Poland">
+            <name>Krakow|Zakopane|SPA Terme Bukowina|Sea Eye</name>
+            <resort>Krakow,Zakopane</resort>
+            <hotel>Zakopane Villa 3*</hotel>
+            <price>100$</price>
+            <time>4 days</time>
+            <visa>yes</visa>
+            <typeOfTour>bus</typeOfTour>
+            <food>breakfast</food>
+            <excursion>yes</excursion>
+            <forHealth>thermal water,SPA</forHealth>
+        </wellnessTour>
+        <wellnessTour country="Czech">
+            <name>Karlovy Vary</name>
+            <resort>Karlovy Vary</resort>
+            <hotel>Krivan 3*</hotel>
+            <price>500$</price>
+            <time>7 days</time>
+            <visa>yes</visa>
+            <typeOfTour>bus</typeOfTour>
+            <food>all inclusive</food>
+            <excursion>no</excursion>
+            <forHealth>thermal water,natural dirt,diet food</forHealth>
+        </wellnessTour>
+        </tour>

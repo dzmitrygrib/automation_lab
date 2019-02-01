@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour>
+        <busTour country="Ukrain">
+            <name>Tasty Lviv</name>
+            <resort>Lviv</resort>
+            <hotel>George 4*</hotel>
+            <coastline>no</coastline>
+            <price>200$</price>
+            <time>3 days</time>
+            <visa>no</visa>
+            <typeTour>gastro</typeTour>
+            <nightMoving>yes</nightMoving>
+            <food>all inclusive</food>
+            <excursion>yes</excursion>
+        </busTour>
+        <busTour country="Georgia">
+            <name>Friendly Georgia</name>
+            <resort>Batumi</resort>
+            <hotel>Batumi 4*</hotel>
+            <coastline>1</coastline>
+            <price>750$</price>
+            <time>10 days</time>
+            <visa>no</visa>
+            <typeTour>tourist</typeTour>
+            <nightMoving>yes</nightMoving>
+            <food>all inclusive</food>
+            <excursion>yes</excursion>
+        </busTour>
+        <busTour country="Germany">
+            <name>Oktober Fest</name>
+            <resort>Munich</resort>
+            <hotel>Imperial 4*</hotel>
+            <coastline>no</coastline>
+            <price>1500$</price>
+            <time>15 days</time>
+            <visa>yes</visa>
+            <typeTour>gastro</typeTour>
+            <nightMoving>yes</nightMoving>
+            <food>all inclusive</food>
+            <excursion>yes</excursion>
+        </busTour>
+    </tour>

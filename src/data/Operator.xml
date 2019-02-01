@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "http://yourdreamtravelling.com/dtd/Operator.dtd">
+<employee>
+        <operator id="1">
+            <firstName>Manai</firstName>
+            <lastName>Ivan</lastName>
+            <birthData>28/12/1995</birthData>
+            <employmentData>24/11/2005</employmentData>
+            <contactNo>1234532890</contactNo>
+            <email>123@xyz.com</email>
+            <address>Minsk,Smetanova st.,2</address>
+            <numberPhone>+375291233267</numberPhone>
+            <post>Operator</post>
+        </operator>
+        <operator id="2">
+            <firstName>Petrov</firstName>
+            <lastName>Anton</lastName>
+            <birthData>30/11/1987</birthData>
+            <employmentData>28/12/2008</employmentData>
+            <contactNo>9887543210</contactNo>
+            <email>petrov216@xyz.com</email>
+            <address>Minsk, Alibaeva st.,123</address>
+            <numberPhone>+375291298333</numberPhone>
+            <post>Operator</post>
+        </operator>
+    </employee>

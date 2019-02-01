@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour>
+        <belarusianTour city="Brest">
+            <name>Brest Fortress</name>
+            <resort>Brest</resort>
+            <hotel>no</hotel>
+            <price>30$</price>
+            <time>1 days</time>
+            <typeTour>tourist</typeTour>
+            <food>breakfast</food>
+            <excursion>yes</excursion>
+        </belarusianTour>
+        <belarusianTour city="Minsk">
+            <name>Mir and Nesvizh Castle</name>
+            <resort>Mir,Nesvizh</resort>
+            <hotel>no</hotel>
+            <price>30$</price>
+            <time>1 days</time>
+            <typeTour>tourist</typeTour>
+            <food>no</food>
+            <excursion>yes</excursion>
+        </belarusianTour>
+        <belarusianTour city="Minsk">
+            <name>Naroch</name>
+            <resort>Naroch</resort>
+            <hotel>Naroch</hotel>
+            <price>300$</price>
+            <time>10 days</time>
+            <typeTour>wellness</typeTour>
+            <food>all inclusive</food>
+            <excursion>no</excursion>
+        </belarusianTour>
+      </tour>

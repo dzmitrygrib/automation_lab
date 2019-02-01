@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+    <manager id="1">
+        <firstName>Tanmay</firstName>
+        <lastName>Patil</lastName>
+        <birthData>24/11/1998</birthData>
+        <employmentData>24/11/2005</employmentData>
+        <contactNo>1234567890</contactNo>
+        <email>tanmaypatil@xyz.com</email>
+        <address>Minsk,Surganova st.,2</address>
+        <numberPhone>+375291234567</numberPhone>
+        <post>Manager</post>
+    </manager>
+    <manager id="2">
+        <firstName>Petrov</firstName>
+        <lastName>Petro</lastName>
+        <birthData>25/01/1978</birthData>
+        <employmentData>24/11/2015</employmentData>
+        <contactNo>9876543210</contactNo>
+        <email>petro@xyz.com</email>
+        <address>Minsk, Aliegova st.,123</address>
+        <numberPhone>+375291232333</numberPhone>
+        <post>Manager</post>
+    </manager>
+</employee>

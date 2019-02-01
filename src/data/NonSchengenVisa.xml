@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<visaService>
+        <visa country="India">
+            <price>120$</price>
+            <time>90 days</time>
+            <visaType>tourist</visaType>
+            <timeType>one time</timeType>
+        </visa>
+        <visa country="USA">
+            <price>190$</price>
+            <time>90 days</time>
+            <visaType>work</visaType>
+            <timeType>one time</timeType>
+        </visa>
+        <visa country="USA">
+            <price>160$</price>
+            <time>90 days</time>
+            <visaType>tourist</visaType>
+            <timeType>one time</timeType>
+        </visa>
+        <visa country="Albania">
+            <price>0$</price>
+            <time>90 days</time>
+            <visaType>tourist</visaType>
+            <timeType>one time</timeType>
+        </visa>
+        <visa country="Jamaica">
+            <price>20$</price>
+            <time>90 days</time>
+            <visaType>tourist</visaType>
+            <timeType>one time</timeType>
+        </visa>
+    </visaService>
