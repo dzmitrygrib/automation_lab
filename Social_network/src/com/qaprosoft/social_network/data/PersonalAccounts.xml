@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE xml [
+	<!ELEMENT xml (personal_accounts)>
+	<!ATTLIST xml xmlns CDATA #REQUIRED>
+	<!ELEMENT personal_accounts (personal_account*)>
+	<!ELEMENT personal_account (owner, name, wall, video_album?, photo_album?)>
+	<!ATTLIST personal_account id CDATA #REQUIRED>
+	<!ELEMENT owner (#PCDATA)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT wall (#PCDATA)>
+	<!ELEMENT video_album (#PCDATA)>
+	<!ELEMENT photo_album (#PCDATA)>
+]>
+
 <xml xmlns="http://www.example.org/NewXMLSchema">
 	<personal_accounts>
 	

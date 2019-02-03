@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE xml [
+	<!ELEMENT xml (users)>
+	<!ATTLIST xml xmlns CDATA #REQUIRED>
+	<!ELEMENT users (user*)>
+	<!ELEMENT user (username, login, password, marital_status)>
+	<!ATTLIST user userID CDATA #REQUIRED>
+	<!ELEMENT username (#PCDATA)>
+	<!ELEMENT login (#PCDATA)>
+	<!ELEMENT password (#PCDATA)>
+	<!ELEMENT marital_status (#PCDATA)>
+]>
+
 <xml xmlns="http://www.example.org/NewXMLSchema">
 	<users>
 	
