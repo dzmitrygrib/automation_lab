@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://www.w3.org/2001/XMLSchema"
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
 	targetNamespace="http://www.example.org/NewXMLSchema"
 	xmlns:tns="http://www.example.org/NewXMLSchema"
 	elementFormDefault="qualified">
 
-	<element name="users">
-		<complexType>
-			<sequence>
+	<xs:element name="xml">
+		<xs:complexType>
+			<xs:sequence>
 
-				<element name="user" maxOccurs="unbounded">
-					<complexType>
-						<sequence>
-							<element name="username" type="string"/>
-							<element name="login" type="string"/>
-							<element name="password" type="string"/>
-							<element name="marital_status" type="string"/>
-						</sequence>
-					</complexType>
-				</element>
+				<xs:element name="users">
+					<xs:complexType>
+						<xs:sequence>
 
-			</sequence>
-			<attribute name="id" type="string" use="required"/>
-		</complexType>
-	</element>
+							<xs:element name="user" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="username" type="xs:string" />
+										<xs:element name="login" type="xs:string" />
+										<xs:element name="password" type="xs:string" />
+										<xs:element name="marital_status" type="xs:string" />
+									</xs:sequence>
+									<xs:attribute name="userID" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
 
-</schema>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>

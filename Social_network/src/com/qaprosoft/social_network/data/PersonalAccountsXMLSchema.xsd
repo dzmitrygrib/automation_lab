@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://www.w3.org/2001/XMLSchema"
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
 	targetNamespace="http://www.example.org/NewXMLSchema"
 	xmlns:tns="http://www.example.org/NewXMLSchema"
 	elementFormDefault="qualified">
 
-	<element name="personal_accounts">
-		<complexType>
-			<sequence>
+	<xs:element name="xml">
+		<xs:complexType>
+			<xs:sequence>
 
-				<element name="personal_account" maxOccurs="unbounded">
-					<complexType>
-						<sequence>
-							<element name="owner" type="string"/>
-							<element name="name" type="string"/>
-							<element name="wall" type="string"/>
-							<element name="video_album" type="string"/>
-							<element name="photo_album" type="string"/>
-						</sequence>
-					</complexType>
-				</element>
 
-			</sequence>
-			<attribute name="id" type="string" use="required"/>
-		</complexType>
-	</element>
+				<xs:element name="personal_accounts">
+					<xs:complexType>
+						<xs:sequence>
 
-</schema>
+							<xs:element name="personal_account"
+								maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="owner" type="xs:string" />
+										<xs:element name="name" type="xs:string" />
+										<xs:element name="wall" type="xs:string" />
+										<xs:element name="video_album" type="xs:string" />
+										<xs:element name="photo_album" type="xs:string" />
+									</xs:sequence>
+									<xs:attribute name="id" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
+
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>
