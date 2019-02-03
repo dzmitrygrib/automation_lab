@@ -2,14 +2,23 @@ package com.qaprosoft.social_network.user;
 
 import java.io.Serializable;
 
+import javax.xml.bind.annotation.*;
+
+@XmlRootElement
+@XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(name = "User")
 public class User implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
+	@XmlAttribute(required = true)
 	private String userID = "DefaultID";
+	@XmlElement(name = "username")
 	private String userName = "DefaultName";
+	@XmlElement
 	private String login = "DefaultLogin";
+	@XmlElement
 	private String password = "DefaultPassword";
-	
+	@XmlElement(name = "marital_status")
 	private MaritalStatus maritalStatus = MaritalStatus.SINGLE;
 	
 	public User() {
@@ -62,6 +71,6 @@ public class User implements Serializable {
 	
 	@Override
 	public String toString() {
-		return "User " + this.userName + " with name: " + this.userName;
+		return "User " + this.userName + " with name: " + this.userName + ". ID = " + this.userID;
 	}
 }

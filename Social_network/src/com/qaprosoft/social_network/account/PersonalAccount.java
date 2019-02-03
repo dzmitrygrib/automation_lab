@@ -2,14 +2,26 @@ package com.qaprosoft.social_network.account;
 
 import java.util.ArrayList;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
+
 import com.qaprosoft.social_network.account.messages.Dialogue;
 import com.qaprosoft.social_network.user.User;
 
+@XmlRootElement
+@XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(name = "PersonalAccount")
 public class PersonalAccount extends Account {
 	
 	private static final long serialVersionUID = 1L;
+	@XmlElement
 	private User owner;
+	@XmlElement
 	private ArrayList<Dialogue> dialogues = new ArrayList<Dialogue>();
+	@XmlElement
 	private ArrayList<User> friends = new ArrayList<User>();
 
 	public PersonalAccount(User user) {
