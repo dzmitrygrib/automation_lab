@@ -38,6 +38,7 @@ public class User implements Serializable {
 	}
 	public void setUserID(String userID) {
 		this.userID = userID;
+		System.out.println("User ID set to: " + userID);
 	}
 	
 	public String getName() {
@@ -45,7 +46,7 @@ public class User implements Serializable {
 	}
 	public void setName(String userName) {
 		this.userName = userName;
-		System.out.println("User name set to " + userName);
+		System.out.println("User name set to: " + userName);
 	}
 	
 	public String getLogin() {
@@ -53,6 +54,7 @@ public class User implements Serializable {
 	}
 	public void setLogin(String login) {
 		this.login = login;
+		System.out.println("User login set to: " + login);
 	}
 	
 	public String getPassword() {
@@ -60,17 +62,22 @@ public class User implements Serializable {
 	}
 	public void setPassword(String password) {
 		this.password = password;
+		System.out.println("User password set to: " + password);
 	}
 	
 	public void setMaritalStatus(MaritalStatus maritalStatus) {
 		this.maritalStatus = maritalStatus;
+		System.out.println("User marital status set to: " + maritalStatus);
 	}
 	public MaritalStatus getMaritalStatus() {
 		return this.maritalStatus;
 	}
-	
+
 	@Override
 	public String toString() {
-		return "User " + this.userName + " with name: " + this.userName + ". ID = " + this.userID;
+		return "User [userID = " + userID + ", userName = " + userName + ", login = " + login
+				+ ", password = " + password
+				+ ", maritalStatus = " + maritalStatus + "]";
 	}
+	
 }

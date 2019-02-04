@@ -16,4 +16,13 @@ public enum MaritalStatus {
 		return this.name;
 	}
 	
+	public static MaritalStatus fromString(String str) {
+		for (MaritalStatus ms : MaritalStatus.values()) {
+			if (ms.name.equalsIgnoreCase(str)) {
+				return ms;
+			}
+		}
+		return null;
+	}
+	
 }
