@@ -6,30 +6,35 @@
 			<username>Alexander</username>
 			<login>alexander</login>
 			<password>erthetj</password>
+			<marital_status>single</marital_status>
 		</admin>
 		
 		<admin userID = "7">
 			<username>Michael</username>
 			<login>michael</login>
 			<password>wivjgni</password>
+			<marital_status>single</marital_status>
 		</admin>
 		
 		<admin userID = "8">
 			<username>Paul</username>
 			<login>paul</login>
 			<password>iwrvugwll</password>
+			<marital_status>single</marital_status>
 		</admin>
 		
 		<admin userID = "9">
 			<username>George</username>
 			<login>george</login>
 			<password>jirtbrnjk</password>
+			<marital_status>single</marital_status>
 		</admin>
 		
 		<admin userID = "10">
 			<username>Ringo</username>
 			<login>ringo</login>
 			<password>arotnisl</password>
+			<marital_status>single</marital_status>
 		</admin>
 		
 	</admins>
