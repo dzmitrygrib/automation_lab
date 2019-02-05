@@ -19,6 +19,7 @@ public class SAXParserRunner {
 		
 		MySAXParser mySAXParser = new MySAXParser();
 		try {
+			//Parsing XML file and adding parsed objects to a list
 			mySAXParser.ParseXML(file);
 			ArrayList<User> list = mySAXParser.getList();
 			

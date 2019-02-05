@@ -43,12 +43,14 @@ public class MySAXParser {
 		@Override
 		public void startDocument() throws SAXException {
 			System.out.println("Starting reading XML file ...");
+			System.out.println();
 		}
 
 		@Override
 		public void startElement(String uri, String localName, String qName, Attributes attributes)
 				throws SAXException {
 			nodeName = qName;
+			//If a handler detects a <user> node then it reads its "userID" attribute
 			if (nodeName.equals("user")) {
 				userID = attributes.getValue("userID");
 			}
@@ -57,6 +59,7 @@ public class MySAXParser {
 		@Override
 		public void characters(char[] ch, int start, int length) throws SAXException {
 			String nodeContents = new String(ch, start, length);
+			//Reading contents of user nodes into strings
 			if (!nodeContents.isEmpty()) {
 				switch (nodeName) {
 				case "username":
@@ -77,6 +80,7 @@ public class MySAXParser {
 
 		@Override
 		public void endElement(String uri, String localName, String qName) throws SAXException {
+			//When handler detects </user> tag it created new User, sets all fields and adds the User to the list
 			if (qName.equals("user")) {
 				User user = new User();
 				user.setUserID(userID);
@@ -85,6 +89,7 @@ public class MySAXParser {
 				user.setPassword(password);
 				user.setMaritalStatus(MaritalStatus.fromString(maritalStatus));
 				list.add(user);
+				System.out.println();
 			}
 		}
 
