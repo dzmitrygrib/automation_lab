@@ -24,5 +24,4 @@ public class IndividualCard extends ClientPersonalCard {
 	public void delete() {
 		System.out.println("Individual Card deleted");
 	}
-	
-}
+}	

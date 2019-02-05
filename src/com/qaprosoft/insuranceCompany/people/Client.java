@@ -1,5 +1,10 @@
 package com.qaprosoft.insuranceCompany.people;
 
+import javax.xml.bind.annotation.XmlAttribute;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
 public class Client {
 	private String clientID = "DefaultID";
 	private String clientName = "DefaultName";
@@ -19,6 +24,7 @@ public class Client {
 	public String getClientID() {
 		return this.clientID;
 	}
+	@XmlAttribute
 	public void setClientID(String clientID) {
 		this.clientID = clientID;
 	}
@@ -26,6 +32,7 @@ public class Client {
 	public String getName() {
 		return this.clientName;
 	}
+	@XmlElement
 	public void setName(String clientName) {
 		this.clientName = clientName;
 	}
@@ -33,6 +40,7 @@ public class Client {
 	public String getOwn() {
 		return this.clientOwn;
 	}
+	@XmlElement
 	public void setOwn(String clientOwn) {
 		this.clientOwn = clientOwn;
 	}
