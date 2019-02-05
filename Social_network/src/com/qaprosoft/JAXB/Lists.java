@@ -4,6 +4,10 @@ import java.util.ArrayList;
 
 import javax.xml.bind.annotation.*;
 
+/*
+ *  Class for storing unmarshaled with JAXB objects
+ */
+
 @XmlRootElement(name = "objects")
 public class Lists {
 	
